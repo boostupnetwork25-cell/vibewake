@@ -1,0 +1,7 @@
+{
+  "name": "VibeWake - AI Music Alarm",
+  "description": "A sophisticated alarm application that wakes you up with your favorite music and AI-generated personalized morning greetings.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
